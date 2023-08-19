@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OFOMAH
 - 👀 I’m interested in Data and Business Analytics and Machine Learning
 - 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on adopting Artificial Intelligence to make business decisions
+- 💞️ I’m looking to collaborate on data analytics and visualization. Also, when the time is right, adopting artificial intelligence in business decision making
 - 📫 How to reach me kaynote79@gmail.com
 
 <!---
